@@ -1,2 +1,0 @@
-# Ultimo NLP Application
- 
